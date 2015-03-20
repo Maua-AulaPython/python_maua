@@ -1,0 +1,5 @@
+x = int(input('digite uma nota: '))
+y = int(input('digite a segunda nota: '))
+z = int(input('digite a terceira nota: '))
+print ((x+y+z)/3)
+input()
