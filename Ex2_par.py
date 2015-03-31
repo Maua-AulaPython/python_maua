@@ -7,3 +7,6 @@ def par(x):
 x = int(input('digite um numero: '))
 par(x)
 input()
+
+# Nota: 1.0
+# Comentairo: ultimo input desnecessario.
