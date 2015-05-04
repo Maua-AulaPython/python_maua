@@ -22,3 +22,6 @@ print('latitude ',lat)
 print ('longitude',long)
 print ('altura',h*1000)
 input()
+
+# Nota: 0.8
+# O enunciado pede uma função

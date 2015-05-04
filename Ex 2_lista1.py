@@ -15,3 +15,6 @@ for i in range(n):
                 res = aux
 print ('a maior distancia eh: ',res)
 input()
+
+# Nota: 1.0
+# Ok

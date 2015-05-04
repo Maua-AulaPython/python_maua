@@ -12,3 +12,6 @@ else:
         print('os valores inserido: ',x[i])
     print('nao eh triangulo retangulo')
 input()
+
+# Nota: 0.5
+# O enunciado pede uma função

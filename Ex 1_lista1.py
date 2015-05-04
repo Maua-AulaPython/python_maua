@@ -9,3 +9,6 @@ for i in range(2):
 res = math.sqrt((x[1]-x[0])**2+(y[1]-y[0])**2)
 print('a distancia entre os pontos eh: ',res)
 input()
+
+# Nota 0.5
+# O exercicio pede para escreve uma função, além que o input não é necessario

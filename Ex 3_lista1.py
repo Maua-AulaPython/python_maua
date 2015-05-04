@@ -13,3 +13,6 @@ for i in range(2):
     y.append(int(input('digite um valor de y: ')))
 polar(x,y)
 input()
+
+# Nota: 1.0
+# Ok!
