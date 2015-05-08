@@ -14,3 +14,6 @@ else:
      media = soma/len(x)
      print (media)
 input()
+
+# Nota: 1.0
+# Comentario. Muito bom. Vamos evitar o ultimo input() ? :)
