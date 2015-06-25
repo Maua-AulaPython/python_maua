@@ -29,5 +29,8 @@ else:
           soma = soma + x[i]
      media = soma/len(x)
      print('maior nota: ',maior(x))
-     print ('média: ', media)
+     print ('media: ', media)
 input()
+
+#Nota: 1.0
+#Comentario: cuidado com funcoes do os (cls). Input final desnecessario
